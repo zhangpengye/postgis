@@ -1,0 +1,2 @@
+Ç¿ÖÆ¸²¸Ç
+git push -u origin master --force
