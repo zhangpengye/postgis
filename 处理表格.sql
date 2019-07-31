@@ -1,0 +1,1 @@
+UPDATE ziranbaohuqu set coords = REPLACE(SUBSTRING(st_astext(st_centroid(shape)),7,30),' ',',') 

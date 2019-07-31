@@ -1,0 +1,1 @@
+select dkbh from lsyldt_1 where dkbh like '%\_%'
